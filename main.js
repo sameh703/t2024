@@ -1,3 +1,0 @@
-hello
-worledtest
-test2
